@@ -1,7 +1,7 @@
 body{
     color: white;
     background-color: black;
-    font-family:  Arial, Helvetica, sans-serif;
+    font-family:  serif;
 }
 
 ul {
@@ -64,9 +64,19 @@ footer p{
 }
 
 .container{
-    padding: 0px 50px;
+    padding: 0px 40px;
+    width: 95%;
+    margin: 0;
 }
 
 nav a:hover{
     color: #66CDAA;
+}
+
+ nav {
+    background-color: white;
+}
+
+li a{
+    color: black;
 }
